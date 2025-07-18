@@ -1,0 +1,93 @@
+.navbar{
+    width: 100%;
+    height: 70px;
+    background-color: #222;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    padding: 0px 20px;
+}
+.logo{
+    font-size: 20px;
+}
+.navbar ul{
+    display: flex;
+    gap: 20px;
+}
+.navbar ul li{
+    list-style-type: none;
+    
+}
+.navbar ul li a{
+    color: white;
+    text-decoration: none;
+}
+.product{
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.prodcon{
+    width: 260px;
+    height: 260px;
+    box-shadow: 3px 2px 7px black;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+.pro-pic{
+    width: 240px;
+    height: 130px;
+    border-radius: 5px;
+    object-fit: cover;
+}
+button.addbtn {
+    width: 90px;
+    height: 30px;
+    color: white;
+    border: none;
+    background: #08ac3c;
+    border-radius: 5px;
+    box-shadow: 2px 2px 4px dimgrey;
+    cursor: pointer;
+}
+.removebtn{
+    background-color: #e64514;
+    width: 105px;
+    height: 30px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 2px 2px 4px dimgrey;
+    cursor: pointer;
+}
+.cart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    margin: 10px;
+    flex-wrap: wrap;
+}
+.cart-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    width: 250px;
+    height: 250px;
+    box-shadow: 3px 2px 7px black;
+}
+.cart-product {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}

@@ -1,0 +1,23 @@
+[
+    {"id":1,"name":"Margherita Pizza","image":"https://images.pexels.com/photos/32872596/pexels-photo-32872596.jpeg","amount":299,"description":"Classic cheese pizza with tomato sauce and basil."},
+    {"id":2,"name":"Paneer Tikka","image":"https://images.pexels.com/photos/5945610/pexels-photo-5945610.jpeg","amount":220,"description":"Grilled paneer cubes marinated with Indian spices."},
+    {"id":3,"name":"Chicken Biryani","image":"https://images.pexels.com/photos/1613472/pexels-photo-1613472.jpeg","amount":340,"description":"Fragrant basmati rice with tender chicken and spices."},
+    {"id":4,"name":"Veg Manchurian","image":"https://images.pexels.com/photos/1410236/pexels-photo-1410236.jpeg","amount":180,"description":"Crispy veggie balls in spicy Indo‑Chinese sauce."},
+    {"id":5,"name":"Cheese Burger","image":"https://images.pexels.com/photos/19247562/pexels-photo-19247562.jpeg","amount":210,"description":"Beef burger with cheddar cheese and fresh veggies."},
+    {"id":6,"name":"Masala Dosa","image":"https://as2.ftcdn.net/v2/jpg/01/89/45/21/1000_F_189452136_gJBG4ZRXY9NnZZCGV2s8QhObmpeerJTO.jpg","amount":130,"description":"Crispy rice crepe filled with spiced potatoes."},
+    {"id":7,"name":"Butter Chicken","image":"https://images.pexels.com/photos/4663826/pexels-photo-4663826.jpeg","amount":350,"description":"Creamy tomato-based curry with grilled chicken."},
+    {"id":8,"name":"Sushi Platter","image":"https://images.pexels.com/photos/31264149/pexels-photo-31264149.jpeg","amount":490,"description":"Assorted sushi rolls with soy and wasabi."},
+    {"id":9,"name":"Chocolate Donut","image":"https://images.pexels.com/photos/416471/pexels-photo-416471.jpeg","amount":90,"description":"Soft chocolate donut with choco glaze."},
+    {"id":10,"name":"Pav Bhaji","image":"https://images.pexels.com/photos/5410400/pexels-photo-5410400.jpeg","amount":140,"description":"Spiced vegetable mash served with buttered buns."},
+    {"id":11,"name":"Spring Rolls","image":"https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg","amount":110,"description":"Crispy rolls stuffed with veggies and noodles."},
+    {"id":12,"name":"Fried Rice","image":"https://images.pexels.com/photos/3026801/pexels-photo-3026801.jpeg","amount":160,"description":"Stir‑fried rice with vegetables and soy sauce."},
+    {"id":13,"name":"Falafel Wrap","image":"https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg","amount":180,"description":"Middle Eastern wrap with falafel and hummus."},
+    {"id":14,"name":"French Fries","image":"https://media.istockphoto.com/id/1443993866/photo/french-fries-with-ketchup-and-cocktail-sauce.jpg?s=612x612&w=0&k=20&c=URpOsc5tds8tOfxK4ZO3Tkx6mwLho7fL_pTBSNdziBU=","amount":99,"description":"Golden fries served with tangy ketchup."},
+    {"id":15,"name":"Tandoori Chicken","image":"https://images.pexels.com/photos/209540/pexels-photo-209540.jpeg","amount":320,"description":"Charcoal‑grilled chicken marinated in spices."},
+    {"id":16,"name":"Veg Pulao","image":"https://images.pexels.com/photos/1020463/pexels-photo-1020463.jpeg","amount":190,"description":"Rice cooked with vegetables and aromatic spices."},
+    {"id":17,"name":"Ice Cream Sundae","image":"https://images.pexels.com/photos/30663181/pexels-photo-30663181.jpeg","amount":150,"description":"Vanilla, chocolate & strawberry scoops with toppings."},
+    {"id":18,"name":"Chicken Shawarma","image":"https://images.pexels.com/photos/4669265/pexels-photo-4669265.jpeg","amount":230,"description":"Grilled chicken slices in pita with sauces."},
+    {"id":19,"name":"Pasta Alfredo","image":"https://images.pexels.com/photos/236781/pexels-photo-236781.jpeg","amount":260,"description":"Creamy pasta with white sauce and herbs."},
+    {"id":20,"name":"Gulab Jamun","image":"https://images.pexels.com/photos/7449105/pexels-photo-7449105.jpeg","amount":120,"description":"Milk dumplings soaked in sugar syrup."}
+  ]
+  
