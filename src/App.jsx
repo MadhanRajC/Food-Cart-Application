@@ -17,7 +17,7 @@ function App() {
     <Header cart={cart}/>
     <div className="container">
       <Routes>
-        <Route path="/" element={<Home />}></Route>
+        <Route path="/Food-Cart-App" element={<Home />}></Route>
         <Route path="/Cart" element={<Cart />}></Route>
       </Routes>
     </div>

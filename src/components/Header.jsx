@@ -8,7 +8,7 @@ const Header = ({cart}) => {
       <div className="logo">Food Cart</div>
       <ul>
           <li>
-              <Link to={"/"}>Home</Link>
+              <Link to={"/Food-Cart-App"}>Home</Link>
           </li>
           <li>
               <Link to={"/Cart"}><span style={{ color: cart.length === 0 ? "white" : "red" }}><b>{cart.length}</b></span> View Cart</Link>
