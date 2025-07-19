@@ -16,7 +16,8 @@ const Cart = ({product}) => {
    }
   return (
     <>
-    <h1 style={{textAlign:"center"}}>Cart products</h1>
+    <h1 style={{textAlign:"center"}}>Cart Products</h1>
+    {cart.length === 0 ? (<h2 style={{textAlign:"center",margin:"30px",color:"red"}}>Your Cart is Empty</h2>) : ( 
     <div className='cart'>
       {cart.map((product) => (
         <div  className='cart-container' key={product.id}>
@@ -30,8 +31,8 @@ const Cart = ({product}) => {
         </div>
       </div>
       ))}
-    </div>
-    <h2 style={{textAlign:"center"}}>Total Amount RS:{total}</h2>
+    </div>)}
+    <h2 style={{textAlign:"center",marginTop:"50px"}}>Total Amount: {`₹`+total}</h2>
     </>
     
   )
