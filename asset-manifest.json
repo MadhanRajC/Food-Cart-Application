@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Food-Cart-Application/static/css/main.e626c45f.css",
-    "main.js": "/Food-Cart-Application/static/js/main.46c7f663.js",
+    "main.js": "/Food-Cart-Application/static/js/main.6b447011.js",
     "static/js/453.e4f19ed7.chunk.js": "/Food-Cart-Application/static/js/453.e4f19ed7.chunk.js",
     "index.html": "/Food-Cart-Application/index.html",
     "main.e626c45f.css.map": "/Food-Cart-Application/static/css/main.e626c45f.css.map",
-    "main.46c7f663.js.map": "/Food-Cart-Application/static/js/main.46c7f663.js.map",
+    "main.6b447011.js.map": "/Food-Cart-Application/static/js/main.6b447011.js.map",
     "453.e4f19ed7.chunk.js.map": "/Food-Cart-Application/static/js/453.e4f19ed7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e626c45f.css",
-    "static/js/main.46c7f663.js"
+    "static/js/main.6b447011.js"
   ]
 }
